@@ -10,22 +10,22 @@ const App = () => {
     {
       id: nanoid(),
       text: "Confirm flight",
-      date: "15/04/2022",
+      date: "15/07/2022",
     },
     {
       id: nanoid(),
       text: "Pack the books!",
-      date: "21/04/2022",
+      date: "21/07/2022",
     },
     {
       id: nanoid(),
       text: "Order Pizza",
-      date: "21/04/2022",
+      date: "28/07/2022",
     },
     {
       id: nanoid(),
       text: "Buy milk for tomorrow",
-      date: "21/04/2022",
+      date: "01/08/2022",
     },
   ]);
 
